@@ -1,0 +1,1 @@
+This is a simple grails project to test github
